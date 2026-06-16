@@ -7,3 +7,6 @@ The flute sound synthesis pipeline presented at https://piaoziyue.github.io/RMIs
 - See [./main/bootup_jingle.c](./main/bootup_jingle.c) for a demo usage.
 
 This repo is not ready-to-run because it is an expunged version from a main private repo. The recommended consumption of this repo is to understand wave_cube_synth.c and electric_flute.c and write your own version. If you really want to run this repo, it should be possible as long as you delete all usage of irrelevant/expunged features in main.c until it compiles.
+
+Slides: https://docs.google.com/presentation/d/13zZFE81tMiztxbm37lCgLVdqaJFtC9JQDRhESdx99KM/edit?usp=sharing
+
